@@ -1,2 +1,4 @@
-print("I KNOW GIT!!")
+def print_msg():
+	print("I KNOW GIT!!")
 
+print_msg()
